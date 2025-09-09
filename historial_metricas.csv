@@ -1,0 +1,6 @@
+run,accuracy,f1_score,model_path
+1,1.0,1.0,logistic_regression_model_run_1.joblib
+2,1.0,1.0,logistic_regression_model_run_2.joblib
+3,0.9966666666666667,0.9966101694915255,logistic_regression_model_run_3.joblib
+4,1.0,1.0,logistic_regression_model_run_4.joblib
+5,1.0,1.0,logistic_regression_model_run_5.joblib
