@@ -161,4 +161,4 @@ para la combinacion de cada uno de los features que agregamos y los pondera, mul
 ## Conclusiones
  El modelo de regresion logistica binomial, ayuda a predecir y detectar el SPAM, digamos que se puede observar que el nivel de exatitudfue mayor al 09.99% en la mayoria de los casos ademas que el valor F1-Score se mantuvo con los mismos valores, confirmando que el modelo tiene un rendimiento consistente. 
 
- Ademas que el uso de la libreria de **train_test_split** para hacer shuffling durante el testeo, ayudo a validar que el modelo no dependa de un orden particular para 
+ Ademas que el uso de la libreria de **train_test_split** para hacer shuffling durante el testeo, ayudo a validar que el modelo no dependa de un orden particular para su respectivo entrenamiento.
